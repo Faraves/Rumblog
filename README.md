@@ -11,3 +11,4 @@ Un blog de prueba para el curso de [**GIT Y GITHUB**](http://https://platzi.com/
 
 **Nota: Este curso incluye practicas en Windows, Linux y MAC.**
 
+NO APTO PARA NO ALCOHOLICOS
