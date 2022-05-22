@@ -8,3 +8,8 @@ Un blog de prueba para el curso de [**GIT Y GITHUB**](http://https://platzi.com/
 >-Faraves
 
 * Creado por el Team FaraverDrunk
+* Creado por el Team FaraverDrunk
+
+**Nota: Este curso incluye practicas en Windows, Linux y MAC.**
+
+NO APTO PARA NO ALCOHOLICOS
