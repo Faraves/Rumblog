@@ -6,3 +6,5 @@ Un blog de prueba para el curso de [**GIT Y GITHUB**](http://https://platzi.com/
 > Tomar Roncito 🥃
 
 >-Faraves
+
+* Creado por el Team FaraverDrunk
